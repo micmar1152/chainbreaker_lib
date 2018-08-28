@@ -1,0 +1,26 @@
+{
+  "name": "chainbreaker_lib",
+  "version": "1.0.0",
+  "description": "Library for Chainbreaker",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micmar1152/chainbreaker_lib.git"
+  },
+  "author": "Michael Martens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micmar1152/chainbreaker_lib/issues"
+  },
+  "homepage": "https://github.com/micmar1152/chainbreaker_lib#readme",
+  "devDependencies": {
+    "@types/pluralize": "0.0.29",
+    "typescript": "^3.0.1"
+  },
+  "dependencies": {
+    "pluralize": "^7.0.0"
+  }
+}
